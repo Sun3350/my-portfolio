@@ -15,10 +15,7 @@ const About: NextPage = () => {
   return (
     <div className="flex flex-col flex-grow px-6 pt-1 ">
       <h6 className="my-3 text-base font-medium">
-        I am currently pursuing B.Tech Degree(Final Year) in Computer Science
-        Engineering from Academy of Technology. I have 3+ years of experience in
-        Web Development and I have a Youtube Channel where I teach Full Stack
-        Web Development
+      I am a passionate frontend web and mobile app developer with over 4 years of experience, committed to creating visually stunning and user-friendly websites and applications. With expertise in HTML, CSS, JavaScript, Reactjs, Nextjs and React Native, I deliver high-quality results by staying updated with the latest design trends and technologies. I collaborate closely with designers, ensuring aesthetic alignment, accessibility, and seamless user experiences. My focus on clean and maintainable code, rigorous testing, and optimization guarantees top-notch performance on various devices and platforms. My goal is to create exceptional digital solutions that cater to clients and end-users alike.
       </h6>
       <div
         className="flex-grow p-4 mt-5 bg-gray-400 dark:bg-dark-100 "
